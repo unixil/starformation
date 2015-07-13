@@ -9,3 +9,9 @@ In the MK system a luminosity class is added to the spectral class using Roman n
 At early stage, there is no detectable radio emission when dense
 material is stilling falling toward the protostar and quenching the
 development of a ultra compact HII region.
+* Stellar Evolution
+[[https://en.wikipedia.org/wiki/Stellar_evolution][stellar evolution@wiki]]
+All stars are born from collapsing clouds of gas and dust often called
+nebular and molecular clouds.
+** star birth
+[[https://en.wikipedia.org/wiki/Star_formation][star formation]]
